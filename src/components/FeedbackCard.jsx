@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 const FeedbackCard = () => {
   return (
@@ -8,4 +8,4 @@ const FeedbackCard = () => {
   );
 };
 
-export default FeedbackCard;
+export default FeedbackCard

@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const FeedbackCard = () => {
   return (
-    <div>FeedbackCard</div>
-  )
-}
+    <div>
+      <h1>Feedback Card</h1> <LI>//
+    </div>
+  );
+};
 
-export default FeedbackCard
+export default FeedbackCard;

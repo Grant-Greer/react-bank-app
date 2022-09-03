@@ -15,12 +15,12 @@ justify-end items-center flex-1"
                     <li
                         key={nav.id}
                         className={`
-font-poppins
-font-normal 
-cursor-pointer 
-text-[16px]
-text-white
-mr-10
+                                    font-poppins
+                                    font-normal 
+                                    cursor-pointer 
+                                    text-[16px]
+                                    text-white
+                                    mr-10
 `}
                     >
                         <a href={`#${nav.id}`}>{nav.title}</a>
